@@ -1,3 +1,6 @@
+# The program reads certain data from pdf files. Also pre-unpacks from zip archives
+
+# pdf files. The results are recorded in an Excel file.
 # Программа производит чтение определенных данных из pdf файлов. Также предварительно распаковывает из zip архивов
 
 # pdf файлы. Результаты записывает в Excel Файл.
